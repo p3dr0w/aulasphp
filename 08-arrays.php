@@ -4,5 +4,5 @@ $carros = array("BMW","Veloster", "Hilux");
 
 print_r($carros);
 echo "<hr>";
-echo($carros[1]);
+echo($carros[0]);
 ?>
